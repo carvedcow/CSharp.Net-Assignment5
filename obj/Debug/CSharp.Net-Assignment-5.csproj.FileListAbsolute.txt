@@ -1,0 +1,6 @@
+C:\Users\Johnny\source\repos\CSharp.Net-Assignment-5\bin\Debug\CSharp.Net-Assignment-5.exe.config
+C:\Users\Johnny\source\repos\CSharp.Net-Assignment-5\bin\Debug\CSharp.Net-Assignment-5.exe
+C:\Users\Johnny\source\repos\CSharp.Net-Assignment-5\bin\Debug\CSharp.Net-Assignment-5.pdb
+C:\Users\Johnny\source\repos\CSharp.Net-Assignment-5\obj\Debug\CSharp.Net-Assignment-5.csprojAssemblyReference.cache
+C:\Users\Johnny\source\repos\CSharp.Net-Assignment-5\obj\Debug\CSharp.Net-Assignment-5.exe
+C:\Users\Johnny\source\repos\CSharp.Net-Assignment-5\obj\Debug\CSharp.Net-Assignment-5.pdb
